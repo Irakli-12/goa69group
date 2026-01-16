@@ -1,0 +1,40 @@
+.div-1 {
+    background: linear-gradient(to bottom, blue, white);
+    width: 100px;
+    height: 100px;
+}
+.div-2 {
+    background: linear-gradient(to right, red, yellow);
+    width: 100px;
+    height: 100px;
+}
+.div-3 {
+    background: linear-gradient(45deg, green, blue);
+    width: 100px;
+    height: 100px;
+}
+.div-4 {
+    background: linear-gradient(to right, purple, pink, orange);
+    width: 100px;
+    height: 100px;
+}
+.div-5 {
+    background: linear-gradient(to right, black 0%, black 30%, gray 100%);
+    width: 100px;
+    height: 100px;
+}
+.div-6 {
+    background: linear-gradient(to right, green 0% 50%, white 50% 100%);
+    width: 100px;
+    height: 100px;
+}
+.gradient-box {
+    background: linear-gradient(120deg, #ff7eb3, #ff758c, #ffb199);
+    width: 67px;
+    height: 67px;
+}
+.center-page {
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+}

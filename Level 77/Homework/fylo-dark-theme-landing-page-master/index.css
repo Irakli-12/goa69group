@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Edu+AU+VIC+WA+NT+Arrows:wght@400..700&family=Edu+NSW+ACT+Cursive:wght@400..700&family=Figtree:ital,wght@0,300..900;1,300..900&family=Fondamento:ital@0;1&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Karla:ital,wght@0,200..800;1,200..800&family=Kumbh+Sans:wght,YOPQ@100..900,300&family=League+Spartan:wght@100..900&family=Lemon&family=Lexend+Deca:wght@100..900&family=Lexend+Giga:wght@100..900&family=Lilita+One&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Outfit:wght@100..900&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Permanent+Marker&family=Playwrite+AU+SA:wght@100..400&family=Playwrite+FR+Moderne+Guides&family=Playwrite+HR+Lijeva:wght@100..400&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Prompt:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100..900;1,100..900&family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Roboto+Slab:wght@100..900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Smooch+Sans:wght@100..900&family=Spicy+Rice&family=Teko:wght@300..700&family=Young+Serif&display=swap');
+body {
+    background-color: hsl(0, 0%, 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 220vh;
+    font-family: "Raleway";
+}
+.p-1 {
+    color: white;
+    font-size: 12px;
+    margin-left: 70px;
+}
+.p-2 {
+    color: gainsboro;
+    font-size: 8px;
+    margin-left: 40px;
+}
+.p-3 {
+    color: white;
+    font-size: 12px;
+    margin-left: 30px;
+    margin-top: 12px;
+}
+.container-1 {
+    display: flex;
+}
+.d-1 {
+    width: 250px;
+}
+.p-4 {
+    color: gainsboro;
+    font-size: 8px;
+    margin-left: 30px;
+    margin-right: 40px;
+}
+.img-div {
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.img-1 {
+    height: 200px;
+    width: 200px;
+}
+.container-2 {
+    display: flex;
+}
+.h1-1 {
+    color: white;
+    font-size: 22px;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+.p-5 {
+    color: gainsboro;
+    font-size: 15px;
+    margin-left: 25px;
+    margin-right: 30px;
+}
+.container-3 {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.d-2 {
+    height: 100px;
+    width: 150px;
+    background-color: hsl(219, 30%, 18%);
+    border-radius: 5px;
+}
+.d-3 {
+    height: 100px;
+    width: 150px;
+    background-color: hsl(219, 30%, 18%);
+    border-radius: 5px;
+}
+.d-4 {
+    height: 100px;
+    width: 150px;
+    background-color: hsl(219, 30%, 18%);
+    border-radius: 5px;
+}
+.p-6 {
+    color: gainsboro;
+    font-size: 9.5px;
+    margin-left: 10px;
+}
+.p-7 {
+    color: gainsboro;
+    font-size: 9.5px;
+    margin-left: 10px;
+}
+.p-8 {
+    color: gainsboro;
+    font-size: 9.5px;
+    margin-left: 10px;
+}
+.access-div {
+    width: 400px;
+    height: 120px;
+    background-color: hsl(219, 30%, 18%);
+    margin-left: 50px;
+    margin-top: 50px;
+    border-radius: 7px;
+}
+.p-9 {
+    margin-left: 100px;
+    margin-top: 10px;
+    color: gainsboro;
+    position: absolute;
+}
+.p-10 {
+    color: gainsboro;
+    font-size: 10px;
+    margin-top: 35px;
+    position: absolute;
+    margin-left: 20px;
+    margin-right: 90px;
+}
+
+
+
+
+.main-div-2 {
+    height: 1200px;
+    width: 500px;
+    position: absolute;
+    background-color: hsl(218, 28%, 13%);
+}
+.img-2 {
+    height: 30px;
+    width: 60px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.img-3 {
+    margin-left: 150px;
+    width: 200px;
+    height: 200px;
+}
+.h1-2 {
+    color: white;
+    font-size: 22px;
+    margin-left: 100px;
+}
+.p-11 {
+    font-size: 15px;
+    color: gainsboro;
+    margin-left: 70px;
+    margin-right: 50px;
+}
+.b-1 {
+    color: hsl(176, 68%, 64);
+    border: transparent;
+    height: 30px;
+    width: 120px;
+    margin-left: 175px;
+    border-radius: 40px;
+}
